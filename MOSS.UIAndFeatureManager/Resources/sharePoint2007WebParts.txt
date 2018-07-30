@@ -1,0 +1,3 @@
+﻿Microsoft.Office.Server.Search.WebControls
+Microsoft.SharePoint.Portal.WebControls
+Microsoft.SharePoint.WebPartPages

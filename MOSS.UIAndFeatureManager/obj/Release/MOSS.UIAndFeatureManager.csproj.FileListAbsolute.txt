@@ -1,0 +1,13 @@
+C:\Users\Mark\Documents\MOSS.UIAndFeatureManager\SOURCE CODE\MOSS.UIAndFeatureManager\MOSS.UIAndFeatureManager\obj\Release\MOSS.UIAndFeatureManager.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\MOSS.UIAndFeatureManager\SOURCE CODE\MOSS.UIAndFeatureManager\MOSS.UIAndFeatureManager\obj\Release\MOSS.UIAndFeatureManager.Resources.resources
+C:\Users\Mark\Documents\MOSS.UIAndFeatureManager\SOURCE CODE\MOSS.UIAndFeatureManager\MOSS.UIAndFeatureManager\obj\Release\MOSS.UIAndFeatureManager.UIManager.resources
+C:\Users\Mark\Documents\MOSS.UIAndFeatureManager\SOURCE CODE\MOSS.UIAndFeatureManager\MOSS.UIAndFeatureManager\obj\Release\MOSS.UIAndFeatureManager.csproj.GenerateResource.Cache
+C:\Users\Mark\Documents\MOSS.UIAndFeatureManager\SOURCE CODE\MOSS.UIAndFeatureManager\MOSS.UIAndFeatureManager\bin\Release\MOSS.UIAndFeatureManager.exe
+C:\Users\Mark\Documents\MOSS.UIAndFeatureManager\SOURCE CODE\MOSS.UIAndFeatureManager\MOSS.UIAndFeatureManager\bin\Release\MOSS.UIAndFeatureManager.pdb
+C:\Users\Mark\Documents\MOSS.UIAndFeatureManager\SOURCE CODE\MOSS.UIAndFeatureManager\MOSS.UIAndFeatureManager\bin\Release\Microsoft.SharePoint.dll
+C:\Users\Mark\Documents\MOSS.UIAndFeatureManager\SOURCE CODE\MOSS.UIAndFeatureManager\MOSS.UIAndFeatureManager\bin\Release\Microsoft.SharePoint.Publishing.dll
+C:\Users\Mark\Documents\MOSS.UIAndFeatureManager\SOURCE CODE\MOSS.UIAndFeatureManager\MOSS.UIAndFeatureManager\obj\Release\MOSS.UIAndFeatureManager.exe
+C:\Users\Mark\Documents\MOSS.UIAndFeatureManager\SOURCE CODE\MOSS.UIAndFeatureManager\MOSS.UIAndFeatureManager\obj\Release\MOSS.UIAndFeatureManager.pdb
+C:\Users\Mark\Documents\MOSS.UIAndFeatureManager\SOURCE CODE\MOSS.UIAndFeatureManager\MOSS.UIAndFeatureManager\bin\Release\MOSS.UIAndFeatureManager.exe.config
+C:\Users\Mark\Documents\MOSS.UIAndFeatureManager\SOURCE CODE\MOSS.UIAndFeatureManager\MOSS.UIAndFeatureManager\bin\Release\Microsoft.Web.Administration.dll
+C:\Users\Mark\Documents\MOSS.UIAndFeatureManager\SOURCE CODE\MOSS.UIAndFeatureManager\MOSS.UIAndFeatureManager\bin\Release\Microsoft.IdentityModel.Extensions.dll
